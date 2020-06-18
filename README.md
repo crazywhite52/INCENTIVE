@@ -1,4 +1,4 @@
-# mdbreact-admin-template-free
+# INCENTIVE
 
 > MDB - React Admin Dashboard Free
 
@@ -16,4 +16,4 @@ yarn build
 
 # build for production and view the bundle analyzer report
 yarn build --report
-```# INCENTIVE
+
